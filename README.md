@@ -14,6 +14,10 @@ if (device.isMobile()) {
 if (device.isiOS()) {
   // the person is on an iOS device
 }
+
+if (device.isAndroid()) {
+  // the person is on an Android device
+}
 ```
 
 # License
