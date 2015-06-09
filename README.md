@@ -6,8 +6,13 @@ User agent sniffing for a mobile phone has gotten rather complex, so I made this
 # Usage
 ```js
 var device = require('littlstar/is-mobile');
+
 if (device.isMobile()) {
   // the person is on a mobile phone
+}
+
+if (device.isiOS()) {
+  // the person is on an iOS device
 }
 ```
 
