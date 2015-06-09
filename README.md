@@ -10,3 +10,6 @@ if (device.isMobile()) {
   // the person is on a mobile phone
 }
 ```
+
+# License
+MIT
