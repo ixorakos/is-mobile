@@ -1,6 +1,6 @@
 {
   "name" : "is-mobile" ,
-  "version" : "0.0.1" ,
+  "version" : "0.0.2" ,
   "main" : "index.js" ,
   "description" : "Parse, validate, manipulate, and display dates in JavaScript." ,
   "scripts" : [
