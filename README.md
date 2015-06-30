@@ -10,14 +10,6 @@ var device = require('littlstar/is-mobile');
 if (device.isMobile()) {
   // the person is on a mobile phone
 }
-
-if (device.isiOS()) {
-  // the person is on an iOS device
-}
-
-if (device.isAndroid()) {
-  // the person is on an Android device
-}
 ```
 
 # License
